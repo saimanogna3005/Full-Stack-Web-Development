@@ -1,0 +1,23 @@
+                        DAY 67 DIY
+
+1.What are the advantages of React.js?
+
+Advantages of React.js
+Component-Based Architecture: Encourages reusable UI components, making code more maintainable.
+Virtual DOM: React uses a virtual representation of the DOM, optimizing updates and improving performance.
+Declarative Syntax: Makes it easier to understand and predict how the UI will look based on the application state.
+
+2.What are the disadvantages of React.js?
+
+Disadvantages of React.js
+Steep Learning Curve: Understanding JSX, components, and the ecosystem can be challenging for newcomers.
+Frequent Updates: Rapid changes and updates can lead to confusion and require constant learning.
+Boilerplate Code: Setting up a new project can involve a lot of initial configuration.
+
+3.What is JSX?
+
+JSX (JavaScript XML) is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It makes it easier to create React components by enabling a more readable and declarative way to structure the UI. Browsers don’t understand JSX directly, so it needs to be transpiled (usually using Babel) into standard JavaScript.
+
+4.Why do we use React.js?
+
+React.js is used to build user interfaces, particularly for single-page applications, due to its efficient rendering, component reusability, and flexibility. It simplifies the development process, enhances performance with the virtual DOM, and fosters the creation of dynamic, interactive web applications. React's ecosystem also allows developers to integrate with various tools and libraries, making it a powerful choice for modern web development.

@@ -1,0 +1,14 @@
+1.What is MVC architecture?
+
+The Model-View-Controller (MVC) framework is an architectural/design pattern that separates an application into three main logical components Model, View, and Controller. Each architectural component is built to handle specific development aspects of an application. It isolates the business logic and presentation layer from each other. It was traditionally used for desktop graphical user interfaces (GUIs). Nowadays, MVC is one of the most frequently used industry-standard web development frameworks to create scalable and extensible projects. It is also used for designing mobile apps.MVC was created by Trygve Reenskaug. The main goal of this design pattern was to solve the problem of users controlling a large and complex data set by splitting a large application into specific sections that all have their own purpose.
+
+2.What is the difference between var, let and const?
+
+Variables declared with var are hoisted, which means they can be accessed before they are declared. Variables declared with let are not hoisted. Variables declared with const are not hoisted.var is function-scoped and has been around since the early days of JavaScript. let is block-scoped and was introduced in ES6, offering a more predictable scoping mechanism. const is also block-scoped and is used to declare constants that cannot be reassigned after initialization.One of the features that came with ES6 is the addition of let and const, which can be used for variable declaration. The question is, what makes them different from good var which we've been using? If you are still not clear about this, then this article is for you.
+
+3.What are the properties of client-side architecture?
+
+The Client-server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters called clients. In the client-server architecture, when the client computer sends a request for data to the server through the internet, the server accepts the requested process and delivers the data packets requested back to the client. Clients do not share any of their resources. Examples of the Client-Server Model are Email, World Wide Web, etc.
+
+1.Client: When we say the word Client, it means to talk of a person or an organization using a particular service. Similarly in the digital world, a Client is a computer (Host) i.e. capable of receiving information or using a particular service from the service providers (Servers).
+2.Servers: Similarly, when we talk about the word Servers, It means a person or medium that serves something. Similarly in this digital world, a Server is a remote computer that provides information (data) or access to particular services.

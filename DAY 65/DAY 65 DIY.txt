@@ -1,0 +1,19 @@
+1.What is a Web application?
+
+A web application is software that runs in your web browser.Businesses have to exchange information and deliver services remotely.They use web applications to connect with customers conveniently and securely.A web application can be developed for several uses, which can be used by anyone like it can be used as an individual or as a whole organization for several reasons.In general, a web application can contain online shops (or we can also say them e-commerce shops), webmail's, calculators, social media platforms, etc.There is also some kind of web application that usually requires a special kind of web browser to access them.We cannot access those kinds of web applications by using regular web- browsers.However, most of the web applications available on the internet can be accessed using a standard web browser.
+
+2.What is React.js? Name some features of React.js?
+
+ReactJS is a JavaScript library designed for crafting dynamic and interactive applications, elevating UI/UX for web and mobile platforms. Operating as an open-source, component-based front-end library, React is dedicated to UI design and streamlines code debugging by employing a component-oriented approach.
+
+Features of React.js:
+1.JSX(JavaScript Syntax Extension) or XML
+2.Virtual DOM
+3.One-way data binding
+4.Component-Based Architecture
+5.Performance
+6.Simplicity
+
+3.Explain the difference between Single-page application (SPA) and Multi-Page application (MPA)?
+
+MPA requires a full page reload for each new page.As SPA does not require the browser to reload the entire page, SPA offers a more seamless and interactive experience. MPA results in slower page transitions and perceived delays as it requires the complete page to reload every time.One of the most crucial differences between SPAs and MPAs is server involvement. In a single page application, pages are built by developers in the browser with JavaScript.On the other hand, in a multiple-page application, pages are developed by the server and then sent to the browser.SPAs render content in the browser using JavaScript, while MPAs generate HTML on the server side, which can be more beneficial for SEO. Speed: SPA preloads and is quicker post-initial lag, while MPA must request data for every new page, slowing the process.

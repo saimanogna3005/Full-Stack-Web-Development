@@ -1,0 +1,13 @@
+                          DAY 68 DIY
+
+1.What is Virtual DOM?
+
+Virtual DOM: The Virtual DOM is a programming concept used primarily in libraries like React. It’s a lightweight representation of the actual DOM (Document Object Model). When changes are made to a web application, they first occur in the Virtual DOM. This allows for efficient updates and rendering, as the library can batch changes and update the actual DOM in a more optimized way, reducing performance costs associated with direct manipulation of the DOM.
+
+2.What is NPM?
+
+NPM (Node Package Manager): NPM is a package manager for JavaScript, primarily used for managing packages (libraries and tools) in Node.js applications. It allows developers to install, share, and manage dependencies for their projects easily. NPM also serves as a registry for open-source JavaScript packages.
+
+3.What is package.json?
+
+package.json: This is a file used in Node.js projects that contains metadata about the project. It includes information such as the project's name, version, description, scripts, and dependencies (libraries that the project relies on). This file is essential for managing dependencies and automating tasks within the project.

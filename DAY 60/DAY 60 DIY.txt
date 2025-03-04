@@ -1,0 +1,38 @@
+                 Day-60 DIY Solution
+
+MongoDB Connections and Compass
+
+1.Connect your application to mongodb local instance? 
+
+Step 1: Make sure that MongoDB is installed on your machine.
+Step 2: Create a new node project.
+Step 3: Install dependencies.
+Step 4: Setup the project.
+Step 5: Create a model to use.
+Step 6: Connect to the local MongoDB instance using the connect() method of the MongoClient.
+Step 7: Specify the database you want to access.
+Step 8: Use the client.connect method to connect to a running MongoDB deployment.
+
+2.Connect your application to mongodb cloud instance?
+
+Step 1: Paste a URI or connection string (e.g. from MongoDB Atlas).
+Step 2: Import connections from Robo 3T (Robomongo), NoSQLBooster, and other clients.
+Step 3: Import a URI file.
+Step 4: Enter connection details manually.
+Step 5: Use a MongoDB client, such as mongosh or a MongoDB driver, to connect.
+Step 6: Retrieve the hostname and port information from Cloud Manager.
+Step 7: Use PyMongo tools and drivers to retrieve data from MongoDB.
+
+3.Install MongoDB compass on your local system?
+
+Installation process:
+Windows:
+Step 1:Download the mongodb compass from official MongoDb website
+https://www.mongodb.com/try/download/compass
+Step 2:Select the correct version(windows) and click on”Download”.
+Step 3:Run the installer(.msi file) and follow the prompts.
+Step 4:ChoSose the installation location and click “Next”.
+Step 5:Select the components to install(typically,the default selection is sufficient).
+Step 6:Click “Install” to begin the installation process.
+Step 7:Wait for the installation to complete.
+Step 8:Launch MongoDb compass from the Start menu.

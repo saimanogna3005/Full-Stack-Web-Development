@@ -1,0 +1,5 @@
+var fs=require('fs')
+fs.writeFileSync('text.txt',"this is a test file")
+var os=require('os')
+console.log("Architecture:"+os.arch())
+console.log("platform:"+os.platform())

@@ -1,0 +1,22 @@
+1.What is MongoDB? Explain MongoDB Terminologies?
+
+MongoDB defines as an open source database management system that uses a document oriented database model which support various form of data.
+It holds the set of collection and store data as document.
+
+
+
+
+
+
+2.What are the facets of application that can be realized by implementing proper and optimized data model?
+
+
+
+
+
+
+
+
+
+
+3.Install MongoDB on your local system?

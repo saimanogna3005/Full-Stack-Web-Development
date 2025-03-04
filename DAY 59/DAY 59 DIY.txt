@@ -1,0 +1,23 @@
+1.What are different types of data models in MongoDB? Explain.
+
+The different types of data models in MongoDB are classified into five types and they are:
+1.Flat schema - It consist of a single, two-dimensional array of data elements.All members of the provided column are assumed to be similar.
+2.Star schema - Data is organized in facts and dimensions, diagramed by surrounding each fact with its associated dimension.
+3.Hierarchical - Data is organized in a tree-like structure, where each record features a single parent or root.
+4.Relational - Data is sorted into tables, also referred to as relation, each of which consists of columns and rows.
+5.Object-relational - It allows designers to include objects into the familiar table structure.
+
+2.What are the terminologies used in relational schema?
+
+The terminologies used in relational schema are:
+1.Relation - Table consisting of columns and rows.
+2.Attribute - Name of a column in a relation.
+3.Domain - Set of acceptable values for one or more attributes.
+4.Tuple - A row in a relation.
+
+3.What are benefits of object relational Schema? 
+
+The benefits of object relational Schema are as follows:
+1.Extensibility - You can extend Inbuilt features by defining things like data types, user-defined patterns.
+2.Complex types - You can combine user-defined data type to one or more existing data type.
+3.Inheritance - You can define properties existing in another object and can add new properties specific to this objects.
